@@ -6,7 +6,7 @@ This is a openai bot using python language
 ```
 git clone https://github.com/Cypher999/ratdev_openai_bot
 cd ratdev_openai_bot
-pip install -r request.txt
+pip install -r require.txt
 python main.py
 ```
 
